@@ -9,6 +9,7 @@ Company    : Dark Software Company - Black Ninja Team
 
 Thanks to  : Ivan Capponi for the Socket.
 
+
 # About The Coder
 Black.Hacker aka BlackMafia aka BlackPsycho
 
@@ -18,15 +19,16 @@ Coder of BlackWorm and Black Stealer and BlackRAT
 
 Udacity Certification
 
+
 # About BlackRAT
 this my first full project using Java 
 
 Remote Administrator Tool with a bunch of opretions on the Target Device
 
- Compatible with Windows,Linux,MacOS
+Compatible with Windows,Linux,MacOS
+ 
  
  # What can you do
- 
 1. Show Device's Informations.
 2. Upload a file to the Victim.
 3. Execute Terminal Commands.
