@@ -38,4 +38,4 @@ Remote Administrator Tool with a bunch of opretions on the Target Device
 # Copyright
 GNU General Public License v3.0
 
-Owned By : Dark Software Company
+Owned By : Dark Software Company and Black Ninja Team
