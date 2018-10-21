@@ -20,6 +20,8 @@ Coder of BlackWorm and Black Stealer and BlackRAT
 
 Udacity Certification
 
+CEO Of Dark Software Company
+
 
 # About BlackRAT
 this my first full project using Java 
