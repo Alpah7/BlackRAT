@@ -7,6 +7,8 @@ Version    : 2.0 Public Edition
 
 Company    : Dark Software Company - Black Ninja Team
 
+Thanks to  : Ivan Capponi for the Socket.
+
 # About The Coder
 Black.Hacker aka BlackMafia aka BlackPsycho
 
