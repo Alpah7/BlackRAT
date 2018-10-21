@@ -20,15 +20,19 @@ Coder of BlackWorm and Black Stealer and BlackRAT
 
 Udacity Certification
 
+CEO of Dark Software Company
+
+Leader of Black Ninja Team
+
+I know more then 7 Programing languages
+
 
 # About BlackRAT
 this my first full project using Java 
 
-Remote Administrator Tool with a bunch of opretions on the Target Device
+Remote Administrator Tool with a bunch of opretions to execute on the Target Device
 
-Compatible with Windows,Linux,MacOS
-
-CEO of Dark Software Company
+Compatible with Windows,Linux,MacOS ( Not Tested )
  
  
 ## What can you do
