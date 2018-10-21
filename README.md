@@ -3,8 +3,8 @@ BlackRAT - Java Based Remote Administrator Tool
 
 Coded By   : Black.Hacker
 
-Version    : 1.7 [ NO GUI ]
+Version    : 2.0 Public Edition
 
 Company    : Dark Software Company - Black Ninja Team
 
-# Coming Soon
+# Out Now
