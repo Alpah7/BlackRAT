@@ -1,4 +1,5 @@
-# BlackRAT
+![Image of the interface](https://github.com/BlackHacker511/BlackRAT/raw/master/logo.png)
+
 BlackRAT - Java Based Remote Administrator Tool
 
 Coded By   : Black.Hacker
