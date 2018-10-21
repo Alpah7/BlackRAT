@@ -23,7 +23,7 @@ this my first full project using Java
 
 Remote Administrator Tool with a bunch of opretions on the Target Device
 
- Compatible with Windows,Linux.MacOS
+ Compatible with Windows,Linux,MacOS
  
  # What can you do
  
